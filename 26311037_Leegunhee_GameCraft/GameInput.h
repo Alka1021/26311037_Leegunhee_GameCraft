@@ -5,3 +5,4 @@ public:
 	int Init();
 	int Update();
 };
+

@@ -8,3 +8,4 @@ struct GameTime
 	long long eplapsedTime{};
 	long long deltaTime{};			// millisecond
 };
+
