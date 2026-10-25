@@ -129,6 +129,12 @@
     <ClCompile Include="GameScene.cpp" />
     <ClCompile Include="GameTime.cpp" />
     <ClCompile Include="GraphicEngine.cpp" />
+    <ClCompile Include="SceneGameEasy.cpp" />
+    <ClCompile Include="SceneGameHard.cpp" />
+    <ClCompile Include="SceneGameMedium.cpp" />
+    <ClCompile Include="SceneResult.cpp" />
+    <ClCompile Include="SceneSelectDifficulty.cpp" />
+    <ClCompile Include="SceneTitle.cpp" />
     <ClCompile Include="_main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -137,6 +143,12 @@
     <ClInclude Include="GameScene.h" />
     <ClInclude Include="GameTime.h" />
     <ClInclude Include="GraphicEngine.h" />
+    <ClInclude Include="SceneGameEasy.h" />
+    <ClInclude Include="SceneGameHard.h" />
+    <ClInclude Include="SceneGameMedium.h" />
+    <ClInclude Include="SceneResult.h" />
+    <ClInclude Include="SceneSelectDifficulty.h" />
+    <ClInclude Include="SceneTitle.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
